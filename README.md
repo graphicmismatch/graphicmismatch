@@ -5,9 +5,9 @@
 <a href="https://www.instagram.com/graphicmismatch/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat"/></a>
 
 <p align="center">
-<b><h2><a href="https://graphicmismatch.github.io/">Website</a></h2></b>
+   <b><h2><a href="https://graphicmismatch.github.io/">Website</a></h2></b>
 </p>
-
+ <br>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=graphicmismatch&theme=android-dark&border=15DD30"/> <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=graphicmismatch&theme=chartreuse-dark&border=15DD30"/> <br>
