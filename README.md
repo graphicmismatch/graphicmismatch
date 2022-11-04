@@ -5,10 +5,12 @@
 <a href="https://www.instagram.com/graphicmismatch/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat"/></a>
 <hr>  
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=graphicmismatch&theme=android-dark&border=15DD30"/> <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=graphicmismatch&theme=chartreuse-dark&border=15DD30"/> <br>
-<img src="https://github-readme-stats.vercel.app/api?username=graphicmismatch&theme=chartreuse-dark&border=15DD30"show_icons=true"/> <br>
   <a href="https://discord.com/users/433953456315957258"> <img src="https://lanyard.cnrad.dev/api/433953456315957258"></a> <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=graphicmismatch&theme=chartreuse-dark&border=15DD30"/> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=graphicmismatch&theme=chartreuse-dark&border=15DD30"/> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=graphicmismatch&theme=chartreuse-dark&border=15DD30"show_icons=true"/> <br>
+  <br>
+  <br>
   <img src="https://skillicons.dev/icons?i=git,github,py,discord,bots,vscode,unity,bash,cs,java,linux,raspberrypi" />
 </p>
 
