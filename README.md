@@ -10,9 +10,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=graphicmismatch&theme=chartreuse-dark&border=15DD30"/>
 <img src="https://github-readme-stats.vercel.app/api?username=graphicmismatch&theme=chartreuse-dark&border=15DD30"show_icons=true"/>
 <ul>
-<h3>
-Vlad the not so Glad#4944 <br>
-</h3>
 </ul>
 <p align="center">
   <a href="https://discord.com/users/433953456315957258"> <img src="https://lanyard.cnrad.dev/api/433953456315957258"></a> <br>
