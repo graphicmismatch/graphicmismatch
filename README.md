@@ -1,6 +1,8 @@
 <img src="header.png"/>
 
-<a href="https://www.linkedin.com/in/rayan-madan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://www.linkedin.com/in/rayan-madan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat"/></a>
+<a href="https://graphicmismatch.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?logo=itchdotio&logoColor=fff&style=flat"/></a>
+<a href="https://www.instagram.com/graphicmismatch/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat"/></a>
 
 <b><h2><a href="https://graphicmismatch.github.io/">Website</a></h2></b>
 
