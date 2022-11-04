@@ -6,8 +6,10 @@
 <hr>  
 <p align="center">
   <a href="https://discord.com/users/433953456315957258"> <img src="https://lanyard.cnrad.dev/api/433953456315957258"></a> <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=graphicmismatch&theme=chartreuse-dark&border=15DD30"/> <br>
+  <br>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=graphicmismatch&theme=chartreuse-dark&border=15DD30"/> <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=graphicmismatch&theme=chartreuse-dark&border=15DD30"/> <br>
   <img src="https://github-readme-stats.vercel.app/api?username=graphicmismatch&theme=chartreuse-dark&border=15DD30"show_icons=true"/> <br>
   <br>
   <br>
