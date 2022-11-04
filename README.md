@@ -15,7 +15,7 @@ Vlad the not so Glad#4944 <br>
 </h3>
 </ul>
 <p align="center">
-  <a href="https://discord.com/users/741192494133280851"> <img src="https://lanyard.cnrad.dev/api/433953456315957258"></a>
+  <a href="https://discord.com/users/433953456315957258"> <img src="https://lanyard.cnrad.dev/api/433953456315957258"></a> <br>
   <img src="https://skillicons.dev/icons?i=git,github,py,discord,bots,vscode,unity,bash,cs,java,linux,raspberrypi" />
 </p>
 
