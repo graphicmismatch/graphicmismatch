@@ -2,9 +2,8 @@
 
 <a href="https://www.linkedin.com/in/rayan-madan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin"/></a>
 
-<details>
-    <summary><b><h2><a href="https://graphicmismatch.github.io/">Website: </a></h2></b></summary>
-    <h3>https://graphicmismatch.github.io</h3>
+<b><h2><a href="https://graphicmismatch.github.io/">Website</a></h2></b>
+
 </details>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=graphicmismatch&theme=android-dark&border=15DD30"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=graphicmismatch&theme=chartreuse-dark&border=15DD30"/>
