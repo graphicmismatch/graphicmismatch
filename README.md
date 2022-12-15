@@ -8,9 +8,9 @@
 <p align="center">
   <br>
   <br>
-   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=graphicmismatch&theme=chartreuse-dark&border=15DD30"/> <br>-->
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=graphicmismatch&theme=chartreuse-dark&border=15DD30"/> <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=graphicmismatch&theme=chartreuse-dark&border=15DD30"/> <br>
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=graphicmismatch&theme=chartreuse-dark&border=15DD30"show_icons=true"/> <br>-->
+  <img src="https://github-readme-stats.vercel.app/api?username=graphicmismatch&theme=chartreuse-dark&border=15DD30"show_icons=true"/> <br>
   <br>
   <br>
   <img src="https://skillicons.dev/icons?i=git,github,py,discord,bots,vscode,unity,bash,cs,java,linux,raspberrypi" />
