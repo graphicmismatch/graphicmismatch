@@ -14,6 +14,8 @@
   <br>
   <br>
   <img src="https://skillicons.dev/icons?i=git,github,py,discord,bots,vscode,unity,bash,cs,java,linux,raspberrypi" />
+  <hr>
+  [![](https://visitcount.itsvg.in/api?id=graphicmismatch&label=Profile%20Views&color=3&icon=1&pretty=true)](https://visitcount.itsvg.in)
 </p>
 
 
