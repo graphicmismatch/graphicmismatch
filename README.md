@@ -16,7 +16,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,py,discord,bots,vscode,unity,bash,cs,java,linux,raspberrypi" />
   <hr>
   <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=graphicmismatch&label=Profile%20Views&color=3&icon=1&pretty=true" />
 </a>
 </p>
 
