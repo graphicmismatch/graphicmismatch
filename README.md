@@ -1,4 +1,4 @@
-<a href="https://graphicmismatch.github.io/"><img src="header.png"/></a>
+<a href="https://graphicmismatch.github.io/"><img src="Assets/header.png"/></a>
 
 <a href="https://discord.com/users/433953456315957258"> <img src="https://lanyard.cnrad.dev/api/433953456315957258"></a> <br>
 <a href="https://www.linkedin.com/in/rayan-madan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat"/></a>
