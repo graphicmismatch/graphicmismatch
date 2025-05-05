@@ -8,7 +8,7 @@
 <p align="center">
   <br>
   <br>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=graphicmismatch&theme=chartreuse-dark&border=15DD30"/> <br>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=graphicmismatch&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact" alt="graphicmismatch's GitHub Stats" /> <br>
   <img src="https://github-readme-stats.vercel.app/api?username=graphicmismatch&theme=chartreuse-dark&border=15DD30"show_icons=true"/> <br>
   <br>
   <br>
